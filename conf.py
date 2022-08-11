@@ -1,6 +1,6 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Jonathan's Title'
+project = "Jonathan's Title"
 copyright = '2022, Jonathan Lakavichit'
 author = 'Jonathan Lakavichit'
 
